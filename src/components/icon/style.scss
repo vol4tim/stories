@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("./fonts/iconfont.eot");
+  src: url("./fonts/iconfont.eot") format("embedded-opentype"),
+    url("./fonts/iconfont.ttf") format("truetype"),
+    url("./fonts/iconfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.i-back,
+.i-copy,
+.i-cursor,
+.i-github,
+.i-reddit,
+.i-lighthouse,
+.i-piechart,
+.i-transfer,
+.i-day,
+.i-night,
+.i-multicolor {
+  font-family: "iconfont";
+  speak: none;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-back:before {
+  content: "";
+}
+
+.i-copy:before {
+  content: "";
+}
+
+.i-cursor:before {
+  content: "";
+}
+
+.i-github:before {
+  content: "";
+}
+
+.i-reddit:before {
+  content: "";
+}
+
+.i-lighthouse:before {
+  content: "";
+}
+
+.i-piechart:before {
+  content: "";
+}
+
+.i-transfer:before {
+  content: "";
+}
+
+.i-day:before {
+  content: "";
+}
+
+.i-night:before {
+  content: "󪀐";
+}
+
+.i-multicolor:before {
+  content: "󪀑";
+}
+.left {
+  margin-right: 6px;
+}
+.right {
+  margin-left: 6px;
+}
